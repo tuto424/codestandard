@@ -1,0 +1,2 @@
+# codestandard
+Standard of Code
